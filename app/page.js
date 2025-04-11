@@ -182,7 +182,7 @@ export default function Home() {
             <a href=''>
               <div className={inknut.className}>
                 <h1 className='inknut text-[#F7EDDB] text-center'>
-                  Wayang Golek Purwa
+                  Wayang Golek Menak
                 </h1>
               </div>
             </a>
@@ -226,7 +226,7 @@ export default function Home() {
             <a href=''>
               <div className={inknut.className}>
                 <h1 className='inknut text-[#F7EDDB] text-center'>
-                  Wayang Golek Purwa
+                  Wayang Kulit Kancil
                 </h1>
               </div>
             </a>
@@ -236,7 +236,7 @@ export default function Home() {
             <a href=''>
               <div className={inknut.className}>
                 <h1 className='inknut text-[#F7EDDB] text-center'>
-                  Wayang Golek Purwa
+                  Wayang Kulit Purwa
                 </h1>
               </div>
             </a>
